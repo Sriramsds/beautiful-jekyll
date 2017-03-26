@@ -2,7 +2,7 @@
 layout: post
 title:  markdown
 subtitle: Markdown The Easiest Way
-bigimg: img/md.jpg
+bigimg: /img/md.jpg
 ---
 
 
