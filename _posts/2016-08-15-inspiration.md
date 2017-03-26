@@ -3,6 +3,7 @@ layout: post
 title: Free Software
 tags: [Free Software,inspiration]
 bigimg: /img/free.jpg
+
 ---
 
 This blog is created using Github Pages and it's a 
