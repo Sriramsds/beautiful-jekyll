@@ -2,6 +2,8 @@
 layout: post
 title: gnome terminal
 subtitle: ... Installation
+bigimg: /img/gnome.png
+
 ---
 
 Installing the rails is not a tedious process, Its Simple in Linux.... Rails can be installed many way in linux.
