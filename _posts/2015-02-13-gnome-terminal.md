@@ -21,5 +21,5 @@ $ sudo apt-get update
 Step 4 : Instal gnome
 Once done, it's time to install the gnome terminal. For that type in
 ```
-$ sudo apt-get install gnome-termina
-``
+$ sudo apt-get install gnome-terminal
+```
