@@ -17,5 +17,5 @@ ruby -v
 ```
 > To install rails 
  ```
- sudo gem install rails –v 5.0.0.1 //dependent upon the rails version
+ sudo gem install rails –v 5.0.0.1 \\dependent upon the rails version
  ```
