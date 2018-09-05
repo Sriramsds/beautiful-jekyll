@@ -72,7 +72,7 @@ WidgetsController < ApplicationController
    is_impressionable
  end
  ```
- ** After this the basic impressionist gem will start to work on , and on refreshing your page everytime the views counter gets increased and gets viewed by the users **
+ **After this the basic impressionist gem will start to work on , and on refreshing your page everytime the views counter gets increased and gets viewed by the users**
 
 
 
