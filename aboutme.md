@@ -19,5 +19,4 @@ To be honest, I'm having some trouble to say the same detail in this blog, so wh
 
 
 
-Co-author: S.Muthukrthika
-[Website](https://mkrthika.github.io/me/)
+Co-author: [S.Muthukrthika](https://mkrthika.github.io/me/)
